@@ -25,7 +25,7 @@ function draw() {
   background(200);
   image(img, width-480,30,1346/4,124/4);
 
-  a= 1
+  a= 3
   b= 5
 
   for (t = 0;t < 1600; t+=0.2) {
