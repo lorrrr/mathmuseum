@@ -14,8 +14,8 @@ function setup() {
   // canvas.style('z-index', '-1');
    //canvas.style('display', 'block');
 
-     a= random(1,5);
-     b= random(a,5);
+  a= floor(random(1,6));
+  b= floor(random(a,6));
   fill(127,44,229);
 
 }
