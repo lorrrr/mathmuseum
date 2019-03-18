@@ -22,8 +22,8 @@ function draw() {
 
 
    d=map(mouseY,0,height,0,0.5);
-  background(193);
-  image(img, width-400,30,1346/4,124/4);
+  background(198);
+  image(img, width-480,30,1346/4,124/4);
 
   a= 1
   b= 5
