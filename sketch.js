@@ -28,7 +28,7 @@ function draw() {
   image(img, width-480,30,1346/4,124/4);
 
 
-  for (t = 0;t < 1600; t+=0.2) {
+  for (t = 0;t < 1600; t+=0.1) {
 
     x = 680*sin(a*t+PI*d);
 		y = 350*sin(b*t)+50;
