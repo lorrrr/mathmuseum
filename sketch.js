@@ -22,7 +22,7 @@ function draw() {
 
 
    d=map(mouseY,0,height,0,0.5);
-  background(198);
+  background(200);
   image(img, width-480,30,1346/4,124/4);
 
   a= 1
@@ -36,7 +36,7 @@ function draw() {
     strokeWeight(0.5);
 
 
-		ellipse(width/2+x, height/2+y, 6, 6);
+		ellipse(width/2+x, height/2+y, 8, 8);
 	}
 
 }
