@@ -28,7 +28,7 @@ function draw() {
   a= 1
   b= 5
 
-  for (t = 0;t < 1600; t+=0.3) {
+  for (t = 0;t < 1600; t+=0.2) {
 
     x = 680*sin(a*t+PI*d);
 		y = 350*sin(b*t)+50;
